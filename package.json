@@ -1,0 +1,23 @@
+{
+  "name": "chess_bots",
+  "version": "1.0.0",
+  "description": "Creation from scratch and comparison of numerous Chess Bots fabricated through various learning techniques",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "akgr,CodeWizard",
+  "license": "MIT",
+  "dependencies": {
+    "@chrisoakman/chessboardjs": "^1.0.0",
+    "ajax-request": "^1.2.3",
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "chess.js": "^0.10.2",
+    "chessboardjs": "0.0.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "nodemon": "^1.19.3",
+    "path": "^0.12.7"
+  }
+}

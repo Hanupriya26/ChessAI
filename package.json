@@ -11,7 +11,7 @@
   "dependencies": {
     "@chrisoakman/chessboardjs": "^1.0.0",
     "ajax-request": "^1.2.3",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "body-parser": "^1.19.0",
     "chess.js": "^0.10.2",
     "chessboardjs": "0.0.1",
